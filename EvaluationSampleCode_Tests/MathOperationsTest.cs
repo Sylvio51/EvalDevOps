@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EvaluationSampleCode
+namespace EvaluationSampleCodeTests
 {
     // Vous devez utiliser des DataRow pour ces tests (pour vérifier que vous avez bien compris)
-    public class MathOperations
+    public class MathOperationsTest
     {
         public int Subtract(int numberOne, int numberTwo)
         {
